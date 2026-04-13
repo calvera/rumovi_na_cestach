@@ -1,0 +1,32 @@
+{{ $key := site.Params.web3forms_access_key }}
+<section class="contact-form-wrap" aria-labelledby="contact-heading">
+  <h2 id="contact-heading" class="visually-hidden">Odeslat zprávu</h2>
+  {{ if $key }}
+  <form class="contact-form" action="https://api.web3forms.com/submit" method="POST">
+    <input type="hidden" name="access_key" value="{{ $key }}">
+    <input type="hidden" name="subject" value="Zpráva z webu {{ site.Title }}">
+    <input type="checkbox" name="botcheck" class="hp" tabindex="-1" autocomplete="off" aria-hidden="true">
+    <p>
+      <label for="name">Jméno</label>
+      <input id="name" name="name" type="text" required autocomplete="name">
+    </p>
+    <p>
+      <label for="email">E-mail</label>
+      <input id="email" name="email" type="email" required autocomplete="email">
+    </p>
+    <p>
+      <label for="phone">Telefon <span class="optional">(nepovinné)</span></label>
+      <input id="phone" name="phone" type="tel" autocomplete="tel">
+    </p>
+    <p>
+      <label for="message">Váš dotaz</label>
+      <textarea id="message" name="message" rows="6" required></textarea>
+    </p>
+    <p>
+      <button type="submit">Odeslat</button>
+    </p>
+  </form>
+  {{ else }}
+  <p class="notice">Pro odesílání formuláře nastavte v <code>hugo.toml</code> parametr <code>web3forms_access_key</code> (klíč z <a href="https://web3forms.com">web3forms.com</a>).</p>
+  {{ end }}
+</section>

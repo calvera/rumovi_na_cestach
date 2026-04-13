@@ -1,0 +1,53 @@
+{{- $u := .src | safeURL -}}
+{{- $alt := .alt | default "" -}}
+{{- $external := or (strings.HasPrefix $u "http://") (strings.HasPrefix $u "https://") -}}
+{{- $rel := "" -}}
+{{- if not $external -}}
+  {{- if strings.HasPrefix $u "/images/" -}}
+    {{- $rel = strings.TrimPrefix "/images/" $u -}}
+  {{- else if strings.HasPrefix $u "images/" -}}
+    {{- $rel = strings.TrimPrefix "images/" $u -}}
+  {{- end -}}
+{{- end -}}
+
+{{- $res := false -}}
+{{- if $rel -}}
+  {{- $imgKey := printf "images/%s" $rel -}}
+  {{- with resources.Get $imgKey }}{{ $res = . }}{{ end -}}
+{{- end -}}
+
+{{- $fit := site.Params.image_content_thumb | default "880x880" -}}
+{{- $q := 82 -}}
+{{- with site.Params.image_webp_quality }}{{ $q = int . }}{{ end -}}
+{{- $thumbSpec := printf "%s webp q%d hint photo" $fit $q -}}
+{{- $lightboxMax := site.Params.image_lightbox_max | default "2048x2048" -}}
+{{- $fullSpec := printf "%s webp q%d hint photo" $lightboxMax $q -}}
+{{- if $res -}}
+  {{- $orig := $res -}}
+  {{- $thumb := $orig.Fit $thumbSpec -}}
+  {{- $full := $orig.Fit $fullSpec -}}
+  {{- if and $thumb $full -}}
+<a href="{{ $full.RelPermalink }}" class="content-img-link">
+  <img src="{{ $thumb.RelPermalink }}" alt="{{ $alt }}" loading="lazy" width="{{ $thumb.Width }}" height="{{ $thumb.Height }}">
+</a>
+  {{- else -}}
+  {{- with $orig.Fit $fit -}}
+<a href="{{ $orig.RelPermalink }}" class="content-img-link">
+  <img src="{{ .RelPermalink }}" alt="{{ $alt }}" loading="lazy" width="{{ .Width }}" height="{{ .Height }}">
+</a>
+  {{- end -}}
+  {{- end -}}
+{{- else if $external -}}
+<img src="{{ $u }}" alt="{{ $alt }}" loading="lazy"{{ with .width }} width="{{ . }}"{{ end }}{{ with .height }} height="{{ . }}"{{ end }}>
+{{- else if $rel -}}
+{{- $staticPath := path.Join "static/images" $rel -}}
+{{- if fileExists $staticPath -}}
+<a href="{{ printf "/images/%s" $rel | relURL }}" class="content-img-link">
+  <img src="{{ printf "/images/%s" $rel | relURL }}" alt="{{ $alt }}" loading="lazy"{{ with .width }} width="{{ . }}"{{ end }}{{ with .height }} height="{{ . }}"{{ end }}>
+</a>
+{{- else -}}
+<img src="{{ $u | relURL }}" alt="{{ $alt }}" loading="lazy"{{ with .width }} width="{{ . }}"{{ end }}{{ with .height }} height="{{ . }}"{{ end }}>
+{{- end -}}
+{{- else -}}
+<img src="{{ $u | relURL }}" alt="{{ $alt }}" loading="lazy"{{ with .width }} width="{{ . }}"{{ end }}{{ with .height }} height="{{ . }}"{{ end }}>
+{{- end -}}

@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="{{ or site.LanguageCode `cs` }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }} | {{ site.Title }}{{ end }}</title>
+  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ site.Params.description }}{{ end }}">
+  {{ $sass := resources.Get "css/style.scss" }}
+  {{ $style := $sass | css.Sass | resources.Minify | fingerprint }}
+  <link rel="stylesheet" href="{{ $style.RelPermalink }}" integrity="{{ $style.Data.Integrity }}" crossorigin="anonymous">
+  {{- with resources.Get "images/site/bg-uvod.jpg" -}}
+  {{- with .Fit "2400x2400 webp q78 hint photo" -}}
+  <style>:root { --body-bg-image: url("{{ .RelPermalink }}"); }</style>
+  {{- end -}}
+  {{- end -}}
+</head>
+<body>
+  <div class="page">
+    <header class="site-header">
+      <p class="tagline">Jezte, pite, máčajte si :-)</p>
+      <div class="hero-banner">
+        {{- with resources.Get "images/site/banner-jezte-pite.jpg" -}}
+        {{- with .Fit "764x197 webp q82 hint photo" -}}
+        <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="Jezte, pite, máčajte si" loading="eager">
+        {{- end -}}
+        {{- end -}}
+      </div>
+      <h1 class="site-title"><a href="{{ "/" | relURL }}">{{ site.Title }}</a></h1>
+    </header>
+    <div class="page-shell">
+      <nav class="nav-main" aria-label="Hlavní menu">
+        <ul>
+          {{ range site.Menus.main }}
+          <li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
+          {{ end }}
+        </ul>
+      </nav>
+      <main class="content">
+        {{ block "main" . }}{{ end }}
+      </main>
+    </div>
+    <footer class="site-footer">
+      <p>Copyright © 2008 - {{ now.Format "2006" }} {{ site.Title }} | All rights reserved: <a href="https://{{ site.Params.footer_domain }}">{{ site.Params.footer_domain }}</a></p>
+    </footer>
+  </div>
+  <dialog class="img-lightbox" id="img-lightbox" aria-label="Zvětšený obrázek">
+    <button type="button" class="img-lightbox-close" aria-label="Zavřít">&times;</button>
+    <div class="img-lightbox-body">
+      <img src="" alt="">
+      <div class="img-lightbox-caption" id="img-lightbox-caption" hidden></div>
+    </div>
+  </dialog>
+  <script>
+    (function () {
+      var dlg = document.getElementById("img-lightbox");
+      if (!dlg) return;
+      var big = dlg.querySelector(".img-lightbox-body img");
+      var cap = document.getElementById("img-lightbox-caption");
+      var closeBtn = dlg.querySelector(".img-lightbox-close");
+
+      function isCaptionOnlyParagraph(p) {
+        if (!p || p.tagName !== "P") return false;
+        if (p.querySelector("a")) return false;
+        if (!p.querySelector(":scope > strong")) return false;
+        var text = p.textContent.trim();
+        if (!/Autor fotografie:\s*\S/.test(text)) return false;
+        if (text.indexOf("\n") !== -1 && text.length > 200) return false;
+        if (p.innerHTML.indexOf("<br") !== -1) return false;
+        return true;
+      }
+
+      function parseCaptionParagraph(p) {
+        var strong = p.querySelector("strong");
+        if (!strong) return null;
+        var title = strong.textContent.trim();
+        var m = p.textContent.match(/Autor fotografie:\s*(.+)/);
+        var author = m ? m[1].trim() : "";
+        if (!title && !author) return null;
+        return { title: title, author: author };
+      }
+
+      function applyCaptionData(a, data) {
+        if (!data) return;
+        if (data.title) a.setAttribute("data-photo-title", data.title);
+        if (data.author) a.setAttribute("data-photo-author", data.author);
+      }
+
+      function stripInlineCaptions(root) {
+        var links = root.querySelectorAll("a.content-img-link");
+        for (var i = 0; i < links.length; i++) {
+          var a = links[i];
+          var p = a.closest("p");
+          if (!p) continue;
+          var textBefore = "";
+          var n = p.firstChild;
+          while (n && n !== a) {
+            textBefore += n.textContent || "";
+            n = n.nextSibling;
+          }
+          if (!/Autor fotografie:\s*\S/.test(textBefore)) continue;
+          var titleStrong = null;
+          var walk = p.firstChild;
+          while (walk && walk !== a) {
+            if (walk.nodeType === 1 && walk.tagName === "STRONG") titleStrong = walk;
+            walk = walk.nextSibling;
+          }
+          if (!titleStrong) continue;
+          var title = titleStrong.textContent.trim();
+          var am = textBefore.match(/Autor fotografie:\s*(.+)/);
+          var author = am ? am[1].trim() : "";
+          if (!title && !author) continue;
+          while (p.firstChild && p.firstChild !== a) {
+            p.removeChild(p.firstChild);
+          }
+          applyCaptionData(a, { title: title, author: author });
+        }
+      }
+
+      function pairFloatingCaptions(root) {
+        var prose = root.querySelector("article.prose");
+        if (!prose) return;
+        var nodes = prose.querySelectorAll("p");
+        var lastImage = null;
+        for (var i = 0; i < nodes.length; i++) {
+          var p = nodes[i];
+          if (p.classList.contains("photo-caption--hidden")) continue;
+          if (isCaptionOnlyParagraph(p)) {
+            var parsed = parseCaptionParagraph(p);
+            if (lastImage && parsed) {
+              applyCaptionData(lastImage, parsed);
+              p.classList.add("photo-caption--hidden");
+              lastImage = null;
+            }
+            continue;
+          }
+          var imgLink = p.querySelector("a.content-img-link");
+          if (imgLink) {
+            var links = p.querySelectorAll("a.content-img-link");
+            lastImage = links[links.length - 1];
+          }
+        }
+      }
+
+      function initPhotoCaptions() {
+        var root = document.querySelector("main.content");
+        if (!root) return;
+        stripInlineCaptions(root);
+        pairFloatingCaptions(root);
+      }
+
+      if (document.readyState === "loading") {
+        document.addEventListener("DOMContentLoaded", initPhotoCaptions);
+      } else {
+        initPhotoCaptions();
+      }
+
+      function fillLightboxCaption(a) {
+        if (!cap) return;
+        var title = a.getAttribute("data-photo-title") || "";
+        var author = a.getAttribute("data-photo-author") || "";
+        cap.textContent = "";
+        if (!title && !author) {
+          cap.hidden = true;
+          dlg.setAttribute("aria-label", "Zvětšený obrázek");
+          return;
+        }
+        cap.hidden = false;
+        if (title) {
+          var strong = document.createElement("strong");
+          strong.className = "img-lightbox-title";
+          strong.textContent = title;
+          cap.appendChild(strong);
+        }
+        if (author) {
+          if (title) cap.appendChild(document.createElement("br"));
+          var span = document.createElement("span");
+          span.className = "img-lightbox-author";
+          span.textContent = "Autor fotografie: " + author;
+          cap.appendChild(span);
+        }
+        dlg.setAttribute(
+          "aria-label",
+          title + (author ? ", Autor fotografie: " + author : "")
+        );
+      }
+
+      document.body.addEventListener("click", function (e) {
+        var a = e.target.closest("a.content-img-link");
+        if (!a || !a.querySelector("img")) return;
+        e.preventDefault();
+        var sm = a.querySelector("img");
+        big.src = a.getAttribute("href") || "";
+        big.alt = sm.getAttribute("alt") || "";
+        fillLightboxCaption(a);
+        dlg.showModal();
+      });
+      function close() {
+        dlg.close();
+        big.removeAttribute("src");
+        if (cap) {
+          cap.textContent = "";
+          cap.hidden = true;
+        }
+        dlg.setAttribute("aria-label", "Zvětšený obrázek");
+      }
+      closeBtn.addEventListener("click", close);
+      dlg.addEventListener("click", function (e) {
+        if (e.target === dlg) close();
+      });
+      dlg.addEventListener("cancel", function (e) {
+        e.preventDefault();
+        close();
+      });
+    })();
+  </script>
+</body>
+</html>

@@ -1,0 +1,55 @@
+baseURL = "https://calvera.ydns.eu/"
+languageCode = "cs"
+title = "Rumovi na cestách"
+defaultContentLanguage = "cs"
+
+[params]
+  description = "Osobní stránky — cestování, trošku jinak."
+  footer_domain = "www.rumovinacestach.cz"
+  # Max. rámeček pro zobrazení v článku (Hugo Fit z assets/images); náhled + lightbox jako WebP
+  image_content_thumb = "880x880"
+  # Maximální box pro „plnou“ fotku v lightboxu (zdroje větší se zmenší, menší se nezvětší)
+  image_lightbox_max = "2048x2048"
+  # Kvalita WebP (1–100); mělo by odpovídat [imaging].quality
+  image_webp_quality = 82
+  # Web3Forms: https://web3forms.com — vložte veřejný access key (bezpečné v HTML)
+  web3forms_access_key = ""
+
+[imaging]
+  resampleFilter = "Lanczos"
+  quality = 82
+
+[menu]
+  [[menu.main]]
+    name = "Úvodní strana"
+    pageRef = "/"
+    weight = 10
+  [[menu.main]]
+    name = "Malajsie 2009"
+    pageRef = "/malajsie-2009"
+    weight = 20
+  [[menu.main]]
+    name = "Na Jihovýchod Ilyrským mořem…"
+    pageRef = "/na-jihovychod-ilyrskym-morem"
+    weight = 30
+  [[menu.main]]
+    name = "Závažné dopady jedné expedice…"
+    pageRef = "/zavazne-dopady-jedne-expedice"
+    weight = 40
+  [[menu.main]]
+    name = "Suchozemské epizodky"
+    pageRef = "/suchozemske-epizodky"
+    weight = 50
+  [[menu.main]]
+    name = "Kontaktní formulář"
+    pageRef = "/kontakt"
+    weight = 60
+  [[menu.main]]
+    name = "Mapa stránek"
+    pageRef = "/mapa-stranek"
+    weight = 70
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = false

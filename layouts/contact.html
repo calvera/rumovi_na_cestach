@@ -1,0 +1,7 @@
+{{ define "main" }}
+<article class="prose">
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+  {{ partial "contact-form.html" . }}
+</article>
+{{ end }}

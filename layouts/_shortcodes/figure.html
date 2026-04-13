@@ -1,0 +1,4 @@
+<figure class="content-figure">
+  {{- partial "image-with-full-link.html" (dict "src" (.Get "src") "alt" (.Get "alt" | default "") "width" (.Get "width") "height" (.Get "height")) -}}
+  {{ with .Get "caption" }}<figcaption>{{ . }}</figcaption>{{ end }}
+</figure>
