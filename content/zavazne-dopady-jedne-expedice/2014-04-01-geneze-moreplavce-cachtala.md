@@ -13,9 +13,7 @@ Ale tak, nepozabíjeli jsme se tam a až na pár slabších chvilek to bylo fajn
 Loď jsme přebírali v Sukošanu. Marína je to skutečně olbřímí, nicméně s ohledem na datum byl provoz více než snesitelný. Sama loď byla slovinský Vektor 36, celkem pohodlná, ve standardní charterové konfiguraci a ve stavu odpovídajícím věku. Byla vybavena klasickou hlavní plachtou, což je v chorvatském charteru dnes už skoro exotika, jinak žádné špécie. Jmenovala se Silba.   
 Takže všechny Plzně na palubě? OK, jednoho Jaegera Neptunovi a vyplouváme…
 
-![Úlitba bohu Neptunovi](/images/zavazne-dopady-jedne-expedice/2014-04-01-geneze-moreplavce-cachtala/ulitba-bohu-neptunovi-1426747973.jpg)
-
-**Úlitba bohu Neptunovi** Autor fotografie: Marek Křížan
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2014-04-01-geneze-moreplavce-cachtala/ulitba-bohu-neptunovi-1426747973.jpg" alt="Úlitba bohu Neptunovi" caption="Úlitba bohu Neptunovi — Autor fotografie: Marek Křížan" >}}
 
 **Sobota 12.4.2014  
 Sukošan – Biograd na Moru **  
@@ -40,9 +38,7 @@ V místním obchůdku jsem zakoupil sedmičku balantinky na večerní přípitek
 Papíry budou hotové až zítra, tak zvedáme kotvy a proti proudu Krky odjíždíme plachtit na Prokljanské jezero.  
 Večer kotvíme ve Sradinu u městského nábřeží, kupujeme pršut a domače vino. Konečně je čas na vítězný doutník. Po setmění pijatika tentokráte veliká, včetně mezinárodní družby s partou německých kantorů z vedlejší lodi. Nejdříve jsme vychlastali všechno na naší lodi (včetně mé zdravotní slivovice) a pak všechno u němců (ale ti toho měli po čertech málo, šupáci). Osobně si myslím, že jsme jim ukázali zač je toho loket, ovšem důkazy chybí….
 
-![Doutník](/images/zavazne-dopady-jedne-expedice/2014-04-01-geneze-moreplavce-cachtala/doutnik-1426692260.jpg)
-
-**Doutník** Autor fotografie: Marek Křížan
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2014-04-01-geneze-moreplavce-cachtala/doutnik-1426692260.jpg" alt="Doutník" caption="Doutník — Autor fotografie: Marek Křížan" >}}
 
 **Středa 16.4.2014  
 Skradin – marina Kremik**  
@@ -72,39 +68,20 @@ Kostky jsou vrženy. Napluli jsme cca 130NM a ačkoli kurz v mnoha směrech nena
 
   * Fotografie
 
-
-
-![](/images/zavazne-dopady-jedne-expedice/2014-04-01-geneze-moreplavce-cachtala/silba-biograd-1426747966.jpg)
-
-**Silba- Biograd** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2014-04-01-geneze-moreplavce-cachtala/vyplouvame-1426747967.jpg)
-
-**Vyplouváme** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2014-04-01-geneze-moreplavce-cachtala/stretnutie-1426747967.jpg)
-
-**Stretnutie** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2014-04-01-geneze-moreplavce-cachtala/happy-bastard-1426747968.jpg)
-
-**Happy bastard** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2014-04-01-geneze-moreplavce-cachtala/sibenicka-pevnost-1426747968.jpg)
-
-**Šibenická pevnost** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2014-04-01-geneze-moreplavce-cachtala/kanonem-krky-ke-skradinu-1426747969.jpg)
-
-**Kaňonem Krky ke Skradinu** Autor fotografie: Marek Křížan
-
-![](/images/zavazne-dopady-jedne-expedice/2014-04-01-geneze-moreplavce-cachtala/skradin-1426747969.jpg)
-
-**Skradin** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2014-04-01-geneze-moreplavce-cachtala/ranni-plzen-1426747970.jpg)
-
-**Ranní Plzeň** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2014-04-01-geneze-moreplavce-cachtala/silba-kremik-1426747970.jpg)
-
-**Silba - Kremik** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2014-04-01-geneze-moreplavce-cachtala/smer-jihovychod-proti-jugu-1426747971.jpg)
-
-**Směr Jihovýchod proti Jugu** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2014-04-01-geneze-moreplavce-cachtala/funi-a-vlni-1426747971.jpg)
-
-**Funí a vlní** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2014-04-01-geneze-moreplavce-cachtala/na-severozapad-1426747972.jpg)
-
-**Na Severozápad** Autor fotografie: Marek Křížan
-
-[](/zavazne-dopady-jedne-expedice/2014-04-01-geneze-moreplavce-cachtala/)
-
-[](/zavazne-dopady-jedne-expedice/2014-04-01-geneze-moreplavce-cachtala/)
+<div class="content-gallery">
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2014-04-01-geneze-moreplavce-cachtala/silba-biograd-1426747966.jpg" alt="Silba- Biograd" caption="Silba- Biograd — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2014-04-01-geneze-moreplavce-cachtala/vyplouvame-1426747967.jpg" alt="Vyplouváme" caption="Vyplouváme — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2014-04-01-geneze-moreplavce-cachtala/stretnutie-1426747967.jpg" alt="Stretnutie" caption="Stretnutie — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2014-04-01-geneze-moreplavce-cachtala/happy-bastard-1426747968.jpg" alt="Happy bastard" caption="Happy bastard — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2014-04-01-geneze-moreplavce-cachtala/sibenicka-pevnost-1426747968.jpg" alt="Šibenická pevnost" caption="Šibenická pevnost — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2014-04-01-geneze-moreplavce-cachtala/kanonem-krky-ke-skradinu-1426747969.jpg" alt="Kaňonem Krky ke Skradinu" caption="Kaňonem Krky ke Skradinu — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2014-04-01-geneze-moreplavce-cachtala/skradin-1426747969.jpg" alt="Skradin" caption="Skradin — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2014-04-01-geneze-moreplavce-cachtala/ranni-plzen-1426747970.jpg" alt="Ranní Plzeň" caption="Ranní Plzeň — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2014-04-01-geneze-moreplavce-cachtala/silba-kremik-1426747970.jpg" alt="Silba - Kremik" caption="Silba - Kremik — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2014-04-01-geneze-moreplavce-cachtala/smer-jihovychod-proti-jugu-1426747971.jpg" alt="Směr Jihovýchod proti Jugu" caption="Směr Jihovýchod proti Jugu — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2014-04-01-geneze-moreplavce-cachtala/funi-a-vlni-1426747971.jpg" alt="Funí a vlní" caption="Funí a vlní — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2014-04-01-geneze-moreplavce-cachtala/na-severozapad-1426747972.jpg" alt="Na Severozápad" caption="Na Severozápad — Autor fotografie: Marek Křížan" >}}
+</div>
 
 ### Související rubriky
 

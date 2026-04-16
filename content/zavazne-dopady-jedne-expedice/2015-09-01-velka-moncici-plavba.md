@@ -23,9 +23,7 @@ Loď jsme přebrali bez problémů, je to opět Bavaria 34, cca 13 let mladá a 
   
 Kolem 15.00 jsme byli komplet nastěhovaní, nicméně přes mocné pnutí jsem odolal, a s výhledem na postupné zlepšení počasí odložil vyplutí na brzké nedělní ráno. Alespoň byl čas na MOB a rádio (teoreticky), lana a uzle (prakticky) a jiné machrování… Na povrch vytanuly první problémy, zejména terminologie. K tomu se ovšem vrátím později. Večírek byl mírný, malá procházka po večeři a záhy na mě dolehlo celonoční řízení, takže jsem s Terkou zanechali partu kypícímu najtlajfu a v bázní boží zalezli do betle.
 
-![56 Pirovac odpoledne](/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/56-pirovac-odpoledne-1444635777.jpg)
-
-**56 Pirovac odpoledne** Autor fotografie: Marek Křížan
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/56-pirovac-odpoledne-1444635777.jpg" alt="56 Pirovac odpoledne" caption="56 Pirovac odpoledne — Autor fotografie: Marek Křížan" >}}
 
 **Neděle 6.9.2015  
 Pirovac – Žirje (Vela Stupica), napluto 23,8 NM  
@@ -35,7 +33,7 @@ Ráno jsme s Terez vstali před sedmou, plní odhodlání a nadšení. Dost bylo
 Mezitím proběhly všechny úkony ranní mončičí hygieny i snídaně. Takže na druhý pokus, vpřed.  
 Terezka a Luke k mooringům, Petra a Martina zadní lana, Lenka v pohotovosti ve středolodí. Máme jen mírný vánek do zádě, který nám odpustí drobné nedostatky a zmatky a tak hladce opouštíme bezpečí u mola a vyplouváme kolem nových mol z mariny. Šklebím se jak pavián co našel klíčky od banánové plantáže.
 
-![56 Pirovac odpoledne](/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/56-pirovac-odpoledne-1444635777.jpg)
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/56-pirovac-odpoledne-1444635777.jpg" alt="56 Pirovac odpoledne" >}}
 
 Nálada je výborná, připíjí se Neptunovi, míjíme Hraminu a záhy vyplouváme na Murtersko More. S tímhle ansámblem si netroufám vybalit prádlo hned na prahu, ale po chvíli se odhodlám, s tím že jim to tak nějak ukážu a zároveň si vyzkouším to obskákat sám. Inu nedopadlo to úplně na jedničku. Vítr, nebo spíš vánek, se dvakrát zatočil a pak lehnul, plachty ani naplácnou a čtvero párů očí na mě tázavě hledí, jestli tohle je už ten jachting. Pátý pár očí, patřící mé ženě, se mi nepokrytě směje. Nu což, alespoň jsme si to zkusili, no:)
 
@@ -57,9 +55,7 @@ Po nějakém čase se na některých tvářích objevuje známý zadumaný a poz
   
 Kolem půl dvanácté nám lehnul vítr, takže to smotáme a za občasného koupání pár hodin motorujeme. Nejdříve postižené, pak i ostatní stavím za kormidlo, což je proti mořské nemoci nejlepší, přičemž je pořizována náležitá fotodokumentace. 
 
-![53 Vis na dosah](/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/53-vis-na-dosah-1444581727.jpg)
-
-**53 Vis na dosah** Autor fotografie: Marek Křížan
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/53-vis-na-dosah-1444581727.jpg" alt="53 Vis na dosah" caption="53 Vis na dosah — Autor fotografie: Marek Křížan" >}}
 
 Míjíme Svetac a rychlostí cca 4,5KN (podle GPS) se blížíme k Visu. Malinko přifoukl zaďáček, tak vytáhneme alespoň genu a jedeme v kombi modu, možná o uzlík rychleji. Už se připozdívá a do Komiže se stahuje spousta plachet, tak jsem trochu v tenzi, zda se chytneme. Ovšem bójek je k dispozici hromada. Fouká nám teď do zad a dost to tu vlní, tak nám s odlovem bójky pomáhá klučina z Port Authority, ačkoli to myslím nebylo nezbytné. Hned nás taky stáhne o 250 KN, což je za bójku tedy celkem dost, ale co už… Zátoka s městečkem a horami v pozadí je nádherná a život sladký, tak co.
 
@@ -102,9 +98,7 @@ Je mi nějak bleble, leze na mě chřipka. Tu nám přivezl Luke až z Pálavy, 
 Pomalu přišel čas vyrazit k domovskému přístavu.   
 Odkotvujeme a šploucháme si to směrem k Primoštenu, částečně na plachty, chvílemi na motor.
 
-![54 Primošten](/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/54-primosten-1444581727.jpg)
-
-**54 Primošten** Autor fotografie: Marek Křížan
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/54-primosten-1444581727.jpg" alt="54 Primošten" caption="54 Primošten — Autor fotografie: Marek Křížan" >}}
 
 Před polednem se vyvazujeme na bóji u městské pláže, vaříme oběd, pak si jdeme prohlídnout město. Od kostela na kopci je vidět krásné panoráma plné bílých plachet. Byť je to tu hezké, při to pohledu na ideální jachtařské podmínky úplně cítím, jak tu ztrácíme čas :)  
   
@@ -132,9 +126,7 @@ Kakan (Veli Borovnjak) - Pirovac, napluto 16,2 NM
 **  
 Ráno je poněkud čerstvo, mírný opar a téměř úplné bezvětří. Ono i kdyby foukalo, bez hlavní plachty, jsme jako chromý kůň. Nějak dojdeme, ale na dostihy už to není.
 
-![55 Snídanička pohodička](/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/55-snidanicka-pohodicka-1444581727.jpg)
-
-**55 Snídanička pohodička** Autor fotografie: Marek Křížan
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/55-snidanicka-pohodicka-1444581727.jpg" alt="55 Snídanička pohodička" caption="55 Snídanička pohodička — Autor fotografie: Marek Křížan" >}}
 
 Normálně bych se snažil využít ještě jeden den, co by to jen šlo, ale jaksi není nálada. Ve hře je kauce, ať byla plachta jakýkoli hadr, bude to ještě zajímavé.
 
@@ -159,131 +151,59 @@ Záznam trasy:
 
   * Fotografie
 
-
-
-![](/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/1-zdeseni-ze-skoleni-1444577392.jpg)
-
-**1 Zděšení ze školení** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/2-zdeseni-ze-skoleni-1444577392.jpg)
-
-**2 Zděšení ze školení** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/3-pirovac-1444577393.jpg)
-
-**3 Pirovac** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/4-pripitek-neptunovi-1444577393.jpg)
-
-**4 Přípitek Neptunovi** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/5-pripitek-neptunovi-1444577394.jpg)
-
-**5 Přípitek Neptunovi** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/6-terka-za-kormidlem-1444577394.jpg)
-
-**6 Terka za kormidlem** Autor fotografie: Marek Křížan
-
-![](/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/7-souboj-s-clunem-1444577395.jpg)
-
-**7 Souboj s člunem** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/8-kde-je-ta-bojka-1444577395.jpg)
-
-**8 Kde je ta bójka** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/9-domaci-prace-1444577396.jpg)
-
-**9 Domácí práce** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/10-jede-se-na-vecu-1444577397.jpg)
-
-**10 Jede se na véču** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/11-jede-se-na-vecu-1444577397.jpg)
-
-**11 Jede se na véču** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/12-hlidka-na-lodi-1444577398.jpg)
-
-**12 Hlídka na lodi** Autor fotografie: Marek Křížan
-
-![](/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/13-jede-se-na-vecu-1444577398.jpg)
-
-**13 Jede se na véču** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/14-domace-vino-vela-stupica-1444577399.jpg)
-
-**14 Domace vino, Vela Stupica** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/15-rybi-hody-vela-stupica-1444577399.jpg)
-
-**15 Rybí hody, Vela Stupica** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/16-prepavba-na-vis-1444577400.jpg)
-
-**16 Přepavba na Vis** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/17-preplavba-na-vis-1444577400.jpg)
-
-**17 Přeplavba na Vis** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/18-komiza-1444577401.jpg)
-
-**18 Komiža** Autor fotografie: Marek Křížan
-
-![](/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/19-komiza-1444577401.jpg)
-
-**19 Komiža** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/20-komiza-1444577402.jpg)
-
-**20 KOmiža** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/21-komiza-1444577403.jpg)
-
-**21 Komiža** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/23-komiza-1444577403.jpg)
-
-**23 Komiža** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/24-komiza-1444577404.jpg)
-
-**24 Komiža** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/25-komiza-1444577404.jpg)
-
-**25 Komiža** Autor fotografie: Marek Křížan
-
-![](/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/26-vleceny-naklad-1444577405.jpg)
-
-**26 Vlečený náklad** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/27-bisevo-1444577405.jpg)
-
-**27 Biševo** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/28-smazenky-1444577406.jpg)
-
-**28 Smaženky** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/29-luke-a-majak-1444577406.jpg)
-
-**29 Luke** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/30-lenka-a-fazole-1444577407.jpg)
-
-**30 Lenka a fazole** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/31-perez-a-bunkr-u-visu-1444577407.jpg)
-
-**31 Perez a bunkr u Visu** Autor fotografie: Marek Křížan
-
-![](/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/32-vecer-ve-visu-1444577408.jpg)
-
-**32 Večer ve Visu** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/33-vyznam-lukny-1444577409.jpg)
-
-**33 Význam lukny** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/34-veli-drvenik-1444577409.jpg)
-
-**34 Veli Drvenik** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/35-veli-drvenik-1444577410.jpg)
-
-**35 Veli Drvenik** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/36-veli-drvenik-1444577410.jpg)
-
-**36 Veli Drvenik** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/37-nerusit-prosim-1444577411.jpg)
-
-**37 Nerušit prosím** Autor fotografie: Marek Křížan
-
-![](/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/38-uz-se-malem-napila-bylo-to-tesne-1444577411.jpg)
-
-**38 Už se málem napila, bylo to těsně** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/39-primosten-1444577412.jpg)
-
-**39 Primošten** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/40-primosten-1444577413.jpg)
-
-**40 Primošten** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/41-primosten-1444577413.jpg)
-
-**41 Primošten** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/42-kakan-1444577414.jpg)
-
-**42 Kakan** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/43-kakan-1444577414.jpg)
-
-**43 Kakan** Autor fotografie: Marek Křížan
-
-![](/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/44-nejake-umeni-1444577415.jpg)
-
-**44 Nějaké umění** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/45-murtersko-more-navrat-1444577415.jpg)
-
-**45 Murtersko more, návrat** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/46-murtersko-more-navrat-1444577416.jpg)
-
-**46 Murtersko more, návrat** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/47-murtersko-more-navrat-1444577417.jpg)
-
-**47 Murtersko more, návrat** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/48-posledni-obed-na-lodi-1444577418.jpg)
-
-**48 Poslední oběd na lodi** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/49-pirovac-posledni-vecer-1444577418.jpg)
-
-**49 Pirovac, poslední večer** Autor fotografie: Marek Křížan
-
-![](/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/50-pirovac-posledni-vecer-1444577419.jpg)
-
-**50 Pirovac, poslední večer** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/51-finalni-hostina-1444577420.jpg)
-
-**51 Finální hostina** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/52-obzerstvi-1444577420.jpg)
-
-**52 Obžerství** Autor fotografie: Marek Křížan
-
-[](/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/)
-
-[](/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/)
+<div class="content-gallery">
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/1-zdeseni-ze-skoleni-1444577392.jpg" alt="1 Zděšení ze školení" caption="1 Zděšení ze školení — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/2-zdeseni-ze-skoleni-1444577392.jpg" alt="2 Zděšení ze školení" caption="2 Zděšení ze školení — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/3-pirovac-1444577393.jpg" alt="3 Pirovac" caption="3 Pirovac — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/4-pripitek-neptunovi-1444577393.jpg" alt="4 Přípitek Neptunovi" caption="4 Přípitek Neptunovi — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/5-pripitek-neptunovi-1444577394.jpg" alt="5 Přípitek Neptunovi" caption="5 Přípitek Neptunovi — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/6-terka-za-kormidlem-1444577394.jpg" alt="6 Terka za kormidlem" caption="6 Terka za kormidlem — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/7-souboj-s-clunem-1444577395.jpg" alt="7 Souboj s člunem" caption="7 Souboj s člunem — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/8-kde-je-ta-bojka-1444577395.jpg" alt="8 Kde je ta bójka" caption="8 Kde je ta bójka — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/9-domaci-prace-1444577396.jpg" alt="9 Domácí práce" caption="9 Domácí práce — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/10-jede-se-na-vecu-1444577397.jpg" alt="10 Jede se na véču" caption="10 Jede se na véču — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/11-jede-se-na-vecu-1444577397.jpg" alt="11 Jede se na véču" caption="11 Jede se na véču — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/12-hlidka-na-lodi-1444577398.jpg" alt="12 Hlídka na lodi" caption="12 Hlídka na lodi — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/13-jede-se-na-vecu-1444577398.jpg" alt="13 Jede se na véču" caption="13 Jede se na véču — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/14-domace-vino-vela-stupica-1444577399.jpg" alt="14 Domace vino, Vela Stupica" caption="14 Domace vino, Vela Stupica — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/15-rybi-hody-vela-stupica-1444577399.jpg" alt="15 Rybí hody, Vela Stupica" caption="15 Rybí hody, Vela Stupica — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/16-prepavba-na-vis-1444577400.jpg" alt="16 Přepavba na Vis" caption="16 Přepavba na Vis — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/17-preplavba-na-vis-1444577400.jpg" alt="17 Přeplavba na Vis" caption="17 Přeplavba na Vis — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/18-komiza-1444577401.jpg" alt="18 Komiža" caption="18 Komiža — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/19-komiza-1444577401.jpg" alt="19 Komiža" caption="19 Komiža — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/20-komiza-1444577402.jpg" alt="20 KOmiža" caption="20 KOmiža — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/21-komiza-1444577403.jpg" alt="21 Komiža" caption="21 Komiža — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/23-komiza-1444577403.jpg" alt="23 Komiža" caption="23 Komiža — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/24-komiza-1444577404.jpg" alt="24 Komiža" caption="24 Komiža — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/25-komiza-1444577404.jpg" alt="25 Komiža" caption="25 Komiža — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/26-vleceny-naklad-1444577405.jpg" alt="26 Vlečený náklad" caption="26 Vlečený náklad — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/27-bisevo-1444577405.jpg" alt="27 Biševo" caption="27 Biševo — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/28-smazenky-1444577406.jpg" alt="28 Smaženky" caption="28 Smaženky — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/29-luke-a-majak-1444577406.jpg" alt="29 Luke" caption="29 Luke — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/30-lenka-a-fazole-1444577407.jpg" alt="30 Lenka a fazole" caption="30 Lenka a fazole — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/31-perez-a-bunkr-u-visu-1444577407.jpg" alt="31 Perez a bunkr u Visu" caption="31 Perez a bunkr u Visu — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/32-vecer-ve-visu-1444577408.jpg" alt="32 Večer ve Visu" caption="32 Večer ve Visu — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/33-vyznam-lukny-1444577409.jpg" alt="33 Význam lukny" caption="33 Význam lukny — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/34-veli-drvenik-1444577409.jpg" alt="34 Veli Drvenik" caption="34 Veli Drvenik — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/35-veli-drvenik-1444577410.jpg" alt="35 Veli Drvenik" caption="35 Veli Drvenik — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/36-veli-drvenik-1444577410.jpg" alt="36 Veli Drvenik" caption="36 Veli Drvenik — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/37-nerusit-prosim-1444577411.jpg" alt="37 Nerušit prosím" caption="37 Nerušit prosím — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/38-uz-se-malem-napila-bylo-to-tesne-1444577411.jpg" alt="38 Už se málem napila, bylo to těsně" caption="38 Už se málem napila, bylo to těsně — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/39-primosten-1444577412.jpg" alt="39 Primošten" caption="39 Primošten — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/40-primosten-1444577413.jpg" alt="40 Primošten" caption="40 Primošten — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/41-primosten-1444577413.jpg" alt="41 Primošten" caption="41 Primošten — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/42-kakan-1444577414.jpg" alt="42 Kakan" caption="42 Kakan — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/43-kakan-1444577414.jpg" alt="43 Kakan" caption="43 Kakan — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/44-nejake-umeni-1444577415.jpg" alt="44 Nějaké umění" caption="44 Nějaké umění — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/45-murtersko-more-navrat-1444577415.jpg" alt="45 Murtersko more, návrat" caption="45 Murtersko more, návrat — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/46-murtersko-more-navrat-1444577416.jpg" alt="46 Murtersko more, návrat" caption="46 Murtersko more, návrat — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/47-murtersko-more-navrat-1444577417.jpg" alt="47 Murtersko more, návrat" caption="47 Murtersko more, návrat — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/48-posledni-obed-na-lodi-1444577418.jpg" alt="48 Poslední oběd na lodi" caption="48 Poslední oběd na lodi — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/49-pirovac-posledni-vecer-1444577418.jpg" alt="49 Pirovac, poslední večer" caption="49 Pirovac, poslední večer — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/50-pirovac-posledni-vecer-1444577419.jpg" alt="50 Pirovac, poslední večer" caption="50 Pirovac, poslední večer — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/51-finalni-hostina-1444577420.jpg" alt="51 Finální hostina" caption="51 Finální hostina — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-09-01-velka-moncici-plavba/52-obzerstvi-1444577420.jpg" alt="52 Obžerství" caption="52 Obžerství — Autor fotografie: Marek Křížan" >}}
+</div>
 
 ### Související rubriky
 

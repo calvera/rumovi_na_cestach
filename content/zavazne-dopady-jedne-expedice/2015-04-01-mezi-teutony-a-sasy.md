@@ -22,9 +22,7 @@ Celkem nás jedou čtyři lodě, z toho 3 mají mít 35 ft a jedna 42ft. Jedu na
 
 Večer je briefing v místní restauraci. Kapitáni jednotlivých plavidel dali hlavy dohromady, studovali dlouze synoptické mapy zleva doprava a zase zpět a ukuli přelomový plán. Malovalo se na flipchart, padali odborné meteorologické termíny a mazané argumenty. Za daných podmínek, převládajících v příštích dnech, nemá extra cenu pokoušet se obeplout Rujánu, jak bylo v úmyslu původně. Namísto toho vyrazíme na volné moře a provedeme invazi na Dánský ostrov Mon, další den se stáhneme zpět na Německý ostrov Hidensee a poslední den budeme cvičit přístavní manévry v Breege. Surprise, surprise:) S ohledem na to, že od příjezdu je stále na co si připíjet, nikdo neklade odpor, ba naopak zavládlo nadšení. Dánové, třeste se…:)
 
-![8 Breege večer](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/8-breege-vecer-1429867921.jpg)
-
-**8 Breege večer** Autor fotografie: Marek Křížan
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/8-breege-vecer-1429867921.jpg" alt="8 Breege večer" caption="8 Breege večer — Autor fotografie: Marek Křížan" >}}
 
 **Neděle 5.4.2015,  
 ****Breege – Klintholm (Mon), cca 50NM**  
@@ -51,9 +49,7 @@ Cesta probíhá idylicky, střídáme se za kormidlem, až do okamžiku kdy něk
 Jediná zaznamenání hodná událost byla, když jsme dohnali a předehnali loď našich kolegů. Vskutku povznášející pocit, kdybych neměl strach, že mi omrznou hlasivky, snad bych i zavýskal. Je taková kosa, že ani rum nepomáhá.   
 Na dohled od Hiddensee odpadneme na bočák, v odpoledních hodinách vplouváme do plavební dráhy a v podvečer se vyvazujeme na městské molo ve Vitte.
 
-![56 a zase na stoupačku](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/56-a-zase-na-stoupacku-1429867949.jpg)
-
-**56 a zase na stoupačku** Autor fotografie: Marek Křížan
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/56-a-zase-na-stoupacku-1429867949.jpg" alt="56 a zase na stoupačku" caption="56 a zase na stoupačku — Autor fotografie: Marek Křížan" >}}
 
 Večer jdeme do místní restaurace (samozřejmě rybí) na nějaké to jídlo a pivo, následně akademická debata v salonu naší Mony Lisy, za účasti největších přítomných kapacit. Prima večírek.
 
@@ -71,201 +67,89 @@ Bylo to fajn. Celkově nejsilnější dojem je chlad, nevolnost a znova chlad, a
 
   * Fotografie
 
-
-
-![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/1-balt-1429867918.jpg)
-
-**1 - Balt** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/2-balt-1429867918.jpg)
-
-**2 Balt** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/3-balt-1429867919.jpg)
-
-**3 Balt** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/4-rybicky-1429867919.jpg)
-
-**4 Rybičky** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/5-breege-1429867920.jpg)
-
-**5 Breege** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/6-ktera-je-nasa-1429867920.jpg)
-
-**6 Která je naša** Autor fotografie: Marek Křížan
-
-![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/7-tato-1429867921.jpg)
-
-**7 Tato** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/9-kapitan-1429867922.jpg)
-
-**9 Kapitán** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/10-namraza-1429867922.jpg)
-
-**10 Námraza** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/11-po-ranu-1429867923.jpg)
-
-**11 Po ránu** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/12-paluba-1429867923.jpg)
-
-**12 Paluba** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/13-mona-lisa-1429867924.jpg)
-
-**13 Mona Lisa** Autor fotografie: Marek Křížan
-
-![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/14-kormidlo-1429867925.jpg)
-
-**14 Kormidlo** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/15-prvni-panak-neptunovi-1429867925.jpg)
-
-**15 První panák Neptunovi** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/16-v-kanalech-1429867926.jpg)
-
-**16 V kanálech** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/17-zatim-dobry-1429867926.jpg)
-
-**17 Zatím dobrý** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/18-zabava-v-plnem-proudu-1429867927.jpg)
-
-**18 Zábava v plném proudu** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/19-pod-plnymi-plachtami-1429867927.jpg)
-
-**19 Pod plnými plachtami** Autor fotografie: Marek Křížan
-
-![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/21-a-je-nam-fajn-1429867928.jpg)
-
-**21 a je nám fajn** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/22-ve-formaci-1429867929.jpg)
-
-**22 ve formaci** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/23-fery-1429867930.jpg)
-
-**23 fery** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/24-prituhuje-1429867931.jpg)
-
-**24 přituhuje** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/25-ale-zatim-to-jde-1429867931.jpg)
-
-**25 ale zatím to jde** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/26-dansko-na-obzoru-1429867932.jpg)
-
-**26 Dánsko na obzoru** Autor fotografie: Marek Křížan
-
-![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/27-obliceje-se-protahuji-1429867932.jpg)
-
-**27 obličeje se protahují** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/28-jiny-fera-1429867933.jpg)
-
-**28 Jiný fera** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/29-priprava-na-vylodeni-1429867933.jpg)
-
-**29 příprava na vylodění** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/29-klinthom-1-1429867934.jpg)
-
-**29 Klinthom 1** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/31-klintholm-2-1429867934.jpg)
-
-**31 Klintholm 2** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/32-klintholm-3-1429867935.jpg)
-
-**32 Klintholm 3** Autor fotografie: Marek Křížan
-
-![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/33-klintholm-mapa-pristavu-1429867935.jpg)
-
-**33 Klintholm mapa přístavu** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/34-posilam-report-1429867936.jpg)
-
-**34 posílám report** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/35-pobrezi-danska-1429867937.jpg)
-
-**35 pobřeží Dánska** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/36-opozdilci-1429867937.jpg)
-
-**36 opozdilci** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/36-soumrak-na-monu-1429867938.jpg)
-
-**36 soumrak na Monu** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/37-klintholm-4-1429867938.jpg)
-
-**37 Klintholm 4** Autor fotografie: Marek Křížan
-
-![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/38-pazourkova-plaz-1429867939.jpg)
-
-**38 Pazourková pláž** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/39-pazourkova-plaz-2-1429867939.jpg)
-
-**39 Pazourková pláž 2** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/40-klintholm-5-1429867940.jpg)
-
-**40 Klintholm 5** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/40-klintholm-6-1429867940.jpg)
-
-**40 Klintholm 6** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/42-kotva-1429867941.jpg)
-
-**42 Kotva** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/43-klintholm-7-1429867941.jpg)
-
-**43 Klintholm 7** Autor fotografie: Marek Křížan
-
-![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/44-veteran-1429867942.jpg)
-
-**44 veterán** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/45-plaz-na-monu-1429867944.jpg)
-
-**45 Pláž na Monu** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/46-plaz-na-monu-2-1429867944.jpg)
-
-**46 Pláž na Monu 2** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/47-plaz-na-monu-3-1429867945.jpg)
-
-**47 Pláž na Monu 3** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/48-prave-danske-z-liberce-1429867945.jpg)
-
-**48 Pravé Dánské z Liberce** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/49-danske-rano-1429867946.jpg)
-
-**49 Dánské ráno** Autor fotografie: Marek Křížan
-
-![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/50-pomalu-se-chystame-1429867946.jpg)
-
-**50 Pomalu se chystáme** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/51-ale-neni-kam-spechat-1429867947.jpg)
-
-**51 ale není kam spěchat** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/52-vyplouvame-1429867947.jpg)
-
-**52 vyplouváme** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/53-posledni-pohled-1429867948.jpg)
-
-**53 poslední pohled** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/54-uz-to-zase-svisti-1429867948.jpg)
-
-**54 Už to zase sviští** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/55-louze-1429867949.jpg)
-
-**55 louže** Autor fotografie: Marek Křížan
-
-![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/57-namahavy-sport-1429867950.jpg)
-
-**57 namáhavý sport** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/58-mon-za-zadi-1429867950.jpg)
-
-**58 Mon za zádí** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/59-je-kuasne-1429867951.jpg)
-
-**59 je kuásně** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/60-vincna-1429867951.jpg)
-
-**60 vinčna** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/61-dohnat-j-1429867952.jpg)
-
-****Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/62-a-1429867952.jpg)
-
-****Autor fotografie: Marek Křížan
-
-![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/63-polarnici-1429867953.jpg)
-
-**63 polárníci** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/64-plavebni-draha-1429867954.jpg)
-
-**64 plavební dráha** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/66-melciny-v-lagune-1429867955.jpg)
-
-**66 mělčiny v laguně** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/67-cil-na-dohled-1429867955.jpg)
-
-**67 cíl na dohled** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/68-a-uz-je-tam-1429867956.jpg)
-
-**68 a už je tam** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/69-a-jeste-jeden-1429867956.jpg)
-
-**69 a ještě jeden** Autor fotografie: Marek Křížan
-
-![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/70-vecer-v-rybarskem-pristavu-ve-vitte-1429867957.jpg)
-
-**70 večer v rybářském přístavu ve Vitte** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/71-rybi-hospoda-1429867957.jpg)
-
-**71 rybí hospoda** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/72-lodni-kumuleni-1429867958.jpg)
-
-**72 lodní kumulení** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/73-babicko-vypravej-1429867958.jpg)
-
-**73 babičko vyprávěj** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/74-rano-na-hiddensee-1429867959.jpg)
-
-**74 ráno na Hiddensee** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/75-pohled-do-pilota-1429867959.jpg)
-
-**75 pohled do pilota** Autor fotografie: Marek Křížan
-
-![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/76-pohled-do-pilota-2-1429867960.jpg)
-
-**76 pohled do pilota 2** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/77-pohled-do-pilota-3-1429867960.jpg)
-
-**77 pohled do pilota 3** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/78-pohled-do-pilota-4-1429867961.jpg)
-
-**78 pohled do pilota 4** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/79-pacienti-1429867961.jpg)
-
-**79 pacienti** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/80-trocha-grogu-neuskodi-1429867962.jpg)
-
-**80 trocha grogu neuškodí** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/81-crew-1429867962.jpg)
-
-**81 crew** Autor fotografie: Marek Křížan
-
-![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/82-plaz-u-prory-1429867963.jpg)
-
-**82 pláž u Prory** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/83-prora-perla-naci-rekreacni-architektury-1429867963.jpg)
-
-**83 Prora- perla naci rekreační architektury** Autor fotografie: Marek Křížan ![](/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/84-prora-perla-naci-rekreacni-architektury-1429867964.jpg)
-
-**84 Prora - perla naci rekreační architektury** Autor fotografie: Marek Křížan
-
-[](/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/)
-
-[](/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/)
+<div class="content-gallery">
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/1-balt-1429867918.jpg" alt="1 - Balt" caption="1 - Balt — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/2-balt-1429867918.jpg" alt="2 Balt" caption="2 Balt — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/3-balt-1429867919.jpg" alt="3 Balt" caption="3 Balt — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/4-rybicky-1429867919.jpg" alt="4 Rybičky" caption="4 Rybičky — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/5-breege-1429867920.jpg" alt="5 Breege" caption="5 Breege — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/6-ktera-je-nasa-1429867920.jpg" alt="6 Která je naša" caption="6 Která je naša — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/7-tato-1429867921.jpg" alt="7 Tato" caption="7 Tato — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/9-kapitan-1429867922.jpg" alt="9 Kapitán" caption="9 Kapitán — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/10-namraza-1429867922.jpg" alt="10 Námraza" caption="10 Námraza — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/11-po-ranu-1429867923.jpg" alt="11 Po ránu" caption="11 Po ránu — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/12-paluba-1429867923.jpg" alt="12 Paluba" caption="12 Paluba — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/13-mona-lisa-1429867924.jpg" alt="13 Mona Lisa" caption="13 Mona Lisa — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/14-kormidlo-1429867925.jpg" alt="14 Kormidlo" caption="14 Kormidlo — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/15-prvni-panak-neptunovi-1429867925.jpg" alt="15 První panák Neptunovi" caption="15 První panák Neptunovi — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/16-v-kanalech-1429867926.jpg" alt="16 V kanálech" caption="16 V kanálech — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/17-zatim-dobry-1429867926.jpg" alt="17 Zatím dobrý" caption="17 Zatím dobrý — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/18-zabava-v-plnem-proudu-1429867927.jpg" alt="18 Zábava v plném proudu" caption="18 Zábava v plném proudu — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/19-pod-plnymi-plachtami-1429867927.jpg" alt="19 Pod plnými plachtami" caption="19 Pod plnými plachtami — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/21-a-je-nam-fajn-1429867928.jpg" alt="21 a je nám fajn" caption="21 a je nám fajn — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/22-ve-formaci-1429867929.jpg" alt="22 ve formaci" caption="22 ve formaci — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/23-fery-1429867930.jpg" alt="23 fery" caption="23 fery — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/24-prituhuje-1429867931.jpg" alt="24 přituhuje" caption="24 přituhuje — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/25-ale-zatim-to-jde-1429867931.jpg" alt="25 ale zatím to jde" caption="25 ale zatím to jde — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/26-dansko-na-obzoru-1429867932.jpg" alt="26 Dánsko na obzoru" caption="26 Dánsko na obzoru — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/27-obliceje-se-protahuji-1429867932.jpg" alt="27 obličeje se protahují" caption="27 obličeje se protahují — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/28-jiny-fera-1429867933.jpg" alt="28 Jiný fera" caption="28 Jiný fera — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/29-priprava-na-vylodeni-1429867933.jpg" alt="29 příprava na vylodění" caption="29 příprava na vylodění — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/29-klinthom-1-1429867934.jpg" alt="29 Klinthom 1" caption="29 Klinthom 1 — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/31-klintholm-2-1429867934.jpg" alt="31 Klintholm 2" caption="31 Klintholm 2 — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/32-klintholm-3-1429867935.jpg" alt="32 Klintholm 3" caption="32 Klintholm 3 — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/33-klintholm-mapa-pristavu-1429867935.jpg" alt="33 Klintholm mapa přístavu" caption="33 Klintholm mapa přístavu — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/34-posilam-report-1429867936.jpg" alt="34 posílám report" caption="34 posílám report — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/35-pobrezi-danska-1429867937.jpg" alt="35 pobřeží Dánska" caption="35 pobřeží Dánska — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/36-opozdilci-1429867937.jpg" alt="36 opozdilci" caption="36 opozdilci — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/36-soumrak-na-monu-1429867938.jpg" alt="36 soumrak na Monu" caption="36 soumrak na Monu — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/37-klintholm-4-1429867938.jpg" alt="37 Klintholm 4" caption="37 Klintholm 4 — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/38-pazourkova-plaz-1429867939.jpg" alt="38 Pazourková pláž" caption="38 Pazourková pláž — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/39-pazourkova-plaz-2-1429867939.jpg" alt="39 Pazourková pláž 2" caption="39 Pazourková pláž 2 — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/40-klintholm-5-1429867940.jpg" alt="40 Klintholm 5" caption="40 Klintholm 5 — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/40-klintholm-6-1429867940.jpg" alt="40 Klintholm 6" caption="40 Klintholm 6 — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/42-kotva-1429867941.jpg" alt="42 Kotva" caption="42 Kotva — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/43-klintholm-7-1429867941.jpg" alt="43 Klintholm 7" caption="43 Klintholm 7 — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/44-veteran-1429867942.jpg" alt="44 veterán" caption="44 veterán — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/45-plaz-na-monu-1429867944.jpg" alt="45 Pláž na Monu" caption="45 Pláž na Monu — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/46-plaz-na-monu-2-1429867944.jpg" alt="46 Pláž na Monu 2" caption="46 Pláž na Monu 2 — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/47-plaz-na-monu-3-1429867945.jpg" alt="47 Pláž na Monu 3" caption="47 Pláž na Monu 3 — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/48-prave-danske-z-liberce-1429867945.jpg" alt="48 Pravé Dánské z Liberce" caption="48 Pravé Dánské z Liberce — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/49-danske-rano-1429867946.jpg" alt="49 Dánské ráno" caption="49 Dánské ráno — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/50-pomalu-se-chystame-1429867946.jpg" alt="50 Pomalu se chystáme" caption="50 Pomalu se chystáme — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/51-ale-neni-kam-spechat-1429867947.jpg" alt="51 ale není kam spěchat" caption="51 ale není kam spěchat — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/52-vyplouvame-1429867947.jpg" alt="52 vyplouváme" caption="52 vyplouváme — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/53-posledni-pohled-1429867948.jpg" alt="53 poslední pohled" caption="53 poslední pohled — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/54-uz-to-zase-svisti-1429867948.jpg" alt="54 Už to zase sviští" caption="54 Už to zase sviští — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/55-louze-1429867949.jpg" alt="55 louže" caption="55 louže — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/57-namahavy-sport-1429867950.jpg" alt="57 namáhavý sport" caption="57 namáhavý sport — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/58-mon-za-zadi-1429867950.jpg" alt="58 Mon za zádí" caption="58 Mon za zádí — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/59-je-kuasne-1429867951.jpg" alt="59 je kuásně" caption="59 je kuásně — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/60-vincna-1429867951.jpg" alt="60 vinčna" caption="60 vinčna — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/61-dohnat-j-1429867952.jpg" alt="61 dohnat j" caption="Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/62-a-1429867952.jpg" alt="62 a" caption="Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/63-polarnici-1429867953.jpg" alt="63 polárníci" caption="63 polárníci — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/64-plavebni-draha-1429867954.jpg" alt="64 plavební dráha" caption="64 plavební dráha — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/66-melciny-v-lagune-1429867955.jpg" alt="66 mělčiny v laguně" caption="66 mělčiny v laguně — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/67-cil-na-dohled-1429867955.jpg" alt="67 cíl na dohled" caption="67 cíl na dohled — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/68-a-uz-je-tam-1429867956.jpg" alt="68 a už je tam" caption="68 a už je tam — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/69-a-jeste-jeden-1429867956.jpg" alt="69 a ještě jeden" caption="69 a ještě jeden — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/70-vecer-v-rybarskem-pristavu-ve-vitte-1429867957.jpg" alt="70 večer v rybářském přístavu ve Vitte" caption="70 večer v rybářském přístavu ve Vitte — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/71-rybi-hospoda-1429867957.jpg" alt="71 rybí hospoda" caption="71 rybí hospoda — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/72-lodni-kumuleni-1429867958.jpg" alt="72 lodní kumulení" caption="72 lodní kumulení — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/73-babicko-vypravej-1429867958.jpg" alt="73 babičko vyprávěj" caption="73 babičko vyprávěj — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/74-rano-na-hiddensee-1429867959.jpg" alt="74 ráno na Hiddensee" caption="74 ráno na Hiddensee — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/75-pohled-do-pilota-1429867959.jpg" alt="75 pohled do pilota" caption="75 pohled do pilota — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/76-pohled-do-pilota-2-1429867960.jpg" alt="76 pohled do pilota 2" caption="76 pohled do pilota 2 — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/77-pohled-do-pilota-3-1429867960.jpg" alt="77 pohled do pilota 3" caption="77 pohled do pilota 3 — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/78-pohled-do-pilota-4-1429867961.jpg" alt="78 pohled do pilota 4" caption="78 pohled do pilota 4 — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/79-pacienti-1429867961.jpg" alt="79 pacienti" caption="79 pacienti — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/80-trocha-grogu-neuskodi-1429867962.jpg" alt="80 trocha grogu neuškodí" caption="80 trocha grogu neuškodí — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/81-crew-1429867962.jpg" alt="81 crew" caption="81 crew — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/82-plaz-u-prory-1429867963.jpg" alt="82 pláž u Prory" caption="82 pláž u Prory — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/83-prora-perla-naci-rekreacni-architektury-1429867963.jpg" alt="83 Prora- perla naci rekreační architektury" caption="83 Prora- perla naci rekreační architektury — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/zavazne-dopady-jedne-expedice/2015-04-01-mezi-teutony-a-sasy/84-prora-perla-naci-rekreacni-architektury-1429867964.jpg" alt="84 Prora - perla naci rekreační architektury" caption="84 Prora - perla naci rekreační architektury — Autor fotografie: Marek Křížan" >}}
+</div>
 
 ### Související rubriky
 

@@ -5,7 +5,7 @@ description: "Rumovi na Cestách"
 
 _... na jih od zemí ovládaných kelty a na západ od zemí galských, leží nad nedohledným mořem hornatá země divokých Ilirů. Krajina je to krásná, ale divoká, hodící se spíše k pastevectví nežli k pěstění pšenice. Ilyrové pak jsou kmen mnoha rozporů. Umí být divocí, zpupní a lační po cizíc penězích, stejně tak vstřívcní, pohostinní a neskonale štědří. A právě do příbřežních vod jejich moře má vést výzkumná plavba, jíž se my, suchozemské krysy, máme zúčastnit coby řadový námořníci...._
 
-![Hruza trepe kurnikem](/images/na-jihovychod-ilyrskym-morem/_index/hruza-trepe-kurnikem3-1345546317.jpg)
+{{< figure src="/images/na-jihovychod-ilyrskym-morem/_index/hruza-trepe-kurnikem3-1345546317.jpg" alt="Hruza trepe kurnikem" >}}
 
 Ánébó zcela jinak :)  
 Tak jsme se ženou přemýšleli, jak se z toho všeho tady nepo... a kde bychom v rámci našeho aktuálně v mnoha směrech limitovaného rozpočtu mohli vypustit ventily. Plánů bylo mnoho, ovšem v každém vězel háček či hák. V polovině roku měnit zaměstnání má možná v dlouhodobém horizontu i pozitivní dopady, v horizontu krátkodobém to znamená jen to, že se vám vzácnou, až dojemnou shodou okolností nedostává ani peněz, ani dovolené. A tak jsme se se slzou v oku rozloučili pro tento rok s Jihovýchodní asií a potupně přijali představu nějakého Last minute zájezdu, který by lépe reflektoval naše aktuální možnosti.

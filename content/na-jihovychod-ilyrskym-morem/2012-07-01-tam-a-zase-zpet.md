@@ -5,7 +5,7 @@ description: "Rumovi na Cestách"
 
 _“Lana sklouzala z pacholat do vody a muži na ráhnech povolili tkanice plachet. Bocman štěkáním popoháněl chlapy k usilovnější práci. Vítr s pleskáním nadul plachtu a loď se s poklidným skřípáním oddělila od mola a zamířila k ústí zálivu. Pozoroval jsem racka sedícího na prázdném dřevěném sudu na břehu. Oplácel mi pohled. Díval se na mne a já jsem měl pocit, že v tom pohledu něco je, že on svým zvláštním ptačím způsobem ví….“_
 
-![The-Clipper-Ship-Blue-Jacket-On](/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/the-clipper-ship-blue-jacket-on-1348233805.jpg)
+{{< figure src="/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/the-clipper-ship-blue-jacket-on-1348233805.jpg" alt="The-Clipper-Ship-Blue-Jacket-On" >}}
 
 Vypluli jsme za setmění. Ono ani moc dřív nešlo, celý proces přebírání plavidla je poněkud otravný, ovšem nezbytný. Je třeba odkontrolovat všechny položky na palubním seznamu a to tak že pečlivě, neboť při odevzdávání lodě bude vše svým supím okem kontrolovat chorvat všemi mastmi mazaný a ten vám zadarmo jen tak něco nedá. Takže ačkoli jsme jachtu dostali poměrně přesně na obvyklou sedmnáctou hodinu, než jsme naložili všechny ty dýně Hokaidó a vyreklamovali chybějící hrnky, začalo se smrákat.   
   
@@ -13,9 +13,7 @@ V maríně bylo několik Bavarií 44. Ačkoli nám plavčíkům přišly všechn
 
 Bylo by namístě pozastavit se u posádky. Muž Numero Uno, el Capitano, či Skipper chcete-li, se jmenuje Láďa a je to skutečně zkušený mořeplavec, jachtař, potápěč a navíc nevysychající studnice humorných historek zavánějících mořem. S manželkou Simonou, lékařkou výpravy, pocházejí z Jižních Čech. Abych osvědčil své schopnosti za kormidlem, bude zřejmě muset „onemocnět“ daleko více lidí, než jen kapitán :), neboť dalším členem týmu s platnou kapitánskou licencí je Monča, která je tím pádem da facto Prvním důstojníkem. Ve chvílích kapitánova odpočinku jej za kormidlem nejčastěji alternuje George, takto zřejmě kormidelník. Role navigačního důstojníka se ve vypjatých chvílích špatného počasí ujímá Jitka. Aby naše strava obsahovala dostatek sóji a zeleniny se postará Helča, za morálku na palubě ručí Bára a za to, aby se z kuchyně občas vyloudilo i trochu masa pro nás zoufalé a pohublé zase Lenka.
 
-![Crew](/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/22-1352971490.jpg)
-
-**Crew** Autor fotografie: Marek Křížan
+{{< figure src="/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/22-1352971490.jpg" alt="Crew" caption="Crew — Autor fotografie: Marek Křížan" >}}
 
 Jelikož jsme se nebyli sto domluvit kam vlastně plujeme (po pravdě, konkrétně nám dvěma to bylo celkem jedno – Jsme na jachtě! Jsme na jachtě! Muehehehe! :D ), po opuštění Šibenického zálivu nabral kapitán kurz plus mínus Dalmatské ostrovy, předpokládaný cíl Hvar. Padlo rozhodnutí, že pojedeme celou noc (slibný začátek). Seděli jsme na palubě, snažili se chytat terminologii, pomáhat, nebo alespoň nezavazet. Když vítr foukal (jakože moc nefoukal), jeli jsme pod plachtami. Pokud se na nás vítr vybodnul, jeli jsme na motor. Hvězdičky svítily, moře houpalo, pivo bylo dobré, stejně jako nálada na palubě. Plavba probíhala poklidně, kolem půlnoci nás překonala únava a šli jsme si lehnout.  
 První noc v houpající se kajutě je zajímavý zážitek, ale spalo se nám krásně. Přesto, nebo právě proto někteří z nás po ránu vypadali jako Rocky Balboa po srážce s těžkou zemědělskou technikou. Na druhou stranu, mám pro to určitou omluvu. Ne každý den se člověku stane, že ho probudí na první poslech trochu dada věta „Vstávej, venku jsou delfíni.“ To jak jistě uznáte, by zmátlo kdekoho…  
@@ -30,9 +28,7 @@ Odpověď zní, přátelé, dlouho, rychle a daleko. Záchranné akce jsem samoz
 
 Dalším nocovištěm byl ostrov Lastovo. Krásná zátoka mezi malými ostrůvky, kam jsme dopluli až za tmy a strávili noc na kotvě.
 
-![Záď](/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/16-1352971485.jpg)
-
-**Záď** Autor fotografie: Marek Křížan
+{{< figure src="/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/16-1352971485.jpg" alt="Záď" caption="Záď — Autor fotografie: Marek Křížan" >}}
 
 Po ranních soutěžích v těžbě mořské trávy, v synchronizovaném plavání žen a dálkovém závodu ve šnorchlování kolem jednoho z přilehlých ostrůvků následovala jedna z nejkratších etap, přejezd na ostrov Korčula. Cestou slunečno, mírný zado-boční vítr, dosahovali jsme stěží šesti uzlů. Válíme se, koupeme se, čteme knihy (většina posádky s napětím sleduje krvavé dobrodružství patoložky Maury Islesové v zasněžených Skalistých horách, já čtu Werichovy Italské prázdniny).   
 Tento den byl myslím také Dnem dýně Hokaidó a mám na něj jen mlhavé vzpomínky. Pokud si má zmučená mysl vybavuje, brambory pečené s čerstvým rozmarýnem z Visu nebyly špatné:)  
@@ -60,9 +56,7 @@ Sveřepě jsme se probíjeli vlnami, získávali zkušenosti a říkali si, že 
 Za dvacet minut už míříme opačným směrem, čert vem Bol a kdo bude mít kecy, riskuje vyhození přes palubu. Tolik k síle našeho odhodlání…  
 Dobrá tedy, nový cíl městečko Milna na Brači. :)
 
-![až se úplně podělá!](/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/48-1352972294.jpg)
-
-**až se úplně podělá!** Autor fotografie: Marek Křížan
+{{< figure src="/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/48-1352972294.jpg" alt="až se úplně podělá!" caption="až se úplně podělá! — Autor fotografie: Marek Křížan" >}}
 
 V Milné jsme zakotvili u mola nějakého rybářského závodu. Trochu to tu smrdí, ale do zítřka to přežijeme.   
 V naší alchymistické dílně vytvořila naše vegetariánská sekce systémem Nacpi tam co najdeš guláš z neuvěřitelných čtyř druhů sóji. Kapitán to trefně nazval Quatro Sojádži. Nemám nic proti vegetariánským jídlům, které jsou jak vegetariánské jídla myšlené od svého počátku, ale vařit tak navýsost masovou záležitost jako guláš bez masa, je špinavá hanebnost a je to nečestné a nesportovní! Zdržel jsem se hlasování…  
@@ -80,119 +74,55 @@ Proplouvali jsme pod šibenickou pevností, když nám hezky fouklo do zad. No c
   
 Přísahám, možná to nebude hned, ale my se vrátíme a znovu vyplujeme s delfíny a racky…
 
-![Path](/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/path-1352920096.png)
-
-**Path** Autor fotografie: Marek Křížan
+{{< figure src="/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/path-1352920096.png" alt="Path" caption="Path — Autor fotografie: Marek Křížan" >}}
 
   * Fotografie
 
-
-
-![](/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/6-1352970324.jpg)
-
-**delfín** Autor fotografie: Marek Křížan ![](/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/7-1352970325.jpg)
-
-**delfín2** Autor fotografie: Marek Křížan ![](/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/8-1352970325.jpg)
-
-**opuchliny** Autor fotografie: Marek Křížan ![](/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/9-1352970327.jpg)
-
-**osel** Autor fotografie: Marek Křížan ![](/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/10-1352970328.jpg)
-
-**Komiža** Autor fotografie: Marek Křížan ![](/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/11-1352970489.jpg)
-
-**Komiža2** Autor fotografie: Marek Křížan
-
-![](/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/12-1352970489.jpg)
-
-**Nalodění** Autor fotografie: Marek Křížan ![](/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/13-1352970489.jpg)
-
-**Fender** Autor fotografie: Marek Křížan ![](/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/14-1352970490.jpg)
-
-**kapitán a navigační důstojník** Autor fotografie: Marek Křížan ![](/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/15-1352970490.jpg)
-
-**Amák** Autor fotografie: Marek Křížan ![](/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/17-1352971486.jpg)
-
-**Ama** Autor fotografie: Marek Křížan ![](/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/18-1352971487.jpg)
-
-**Aquabely** Autor fotografie: Marek Křížan
-
-![](/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/19-1352971487.jpg)
-
-**Hopinky** Autor fotografie: Marek Křížan ![](/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/20-1352971488.jpg)
-
-**Košová hlídka** Autor fotografie: Marek Křížan ![](/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/21-1352971488.jpg)
-
-****Autor fotografie: Marek Křížan ![](/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/23-1352971492.jpg)
-
-**Z výšky** Autor fotografie: Marek Křížan ![](/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/24-1352971492.jpg)
-
-**Z výšky2** Autor fotografie: Marek Křížan ![](/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/25-1352971493.jpg)
-
-**Holky** Autor fotografie: Marek Křížan
-
-![](/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/26-1352971765.jpg)
-
-**Oskar** Autor fotografie: Marek Křížan ![](/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/28-1352971766.jpg)
-
-**Svinout plachty!** Autor fotografie: Marek Křížan ![](/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/29-1352971766.jpg)
-
-**Holky2** Autor fotografie: Marek Křížan ![](/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/30-1352971767.jpg)
-
-**Korčula** Autor fotografie: Marek Křížan ![](/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/31-1352971767.jpg)
-
-**Kolega** Autor fotografie: Marek Křížan ![](/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/32-1352971768.jpg)
-
-**Krájení cibule** Autor fotografie: Marek Křížan
-
-![](/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/33-1352971769.jpg)
-
-**Romantika** Autor fotografie: Marek Křížan ![](/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/35-1352971770.jpg)
-
-**Oskar2** Autor fotografie: Marek Křížan ![](/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/36-1352971978.jpg)
-
-**Veleoskar** Autor fotografie: Marek Křížan ![](/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/37-1352971978.jpg)
-
-**Marina** Autor fotografie: Marek Křížan ![](/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/38-1352971978.jpg)
-
-**Hvar** Autor fotografie: Marek Křížan ![](/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/39-1352971979.jpg)
-
-**Hvar - véča** Autor fotografie: Marek Křížan
-
-![](/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/40-1352971980.jpg)
-
-**Jachtíme** Autor fotografie: Marek Křížan ![](/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/41-1352971981.jpg)
-
-**Jachtíme2** Autor fotografie: Marek Křížan ![](/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/42-1352971982.jpg)
-
-**Náklon** Autor fotografie: Marek Křížan ![](/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/43-1352971982.jpg)
-
-**Náklon2** Autor fotografie: Marek Křížan ![](/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/44-1352971983.jpg)
-
-**Horizont** Autor fotografie: Marek Křížan ![](/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/45-1352971983.jpg)
-
-**Regata** Autor fotografie: Marek Křížan
-
-![](/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/46-1352972292.jpg)
-
-****Autor fotografie: Marek Křížan ![](/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/47-1352972293.jpg)
-
-****Autor fotografie: Marek Křížan ![](/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/50-1352972295.jpg)
-
-**Mokro** Autor fotografie: Marek Křížan ![](/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/51-1352972296.jpg)
-
-**Ústí Krky** Autor fotografie: Marek Křížan ![](/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/52-1352972296.jpg)
-
-**Krcký most** Autor fotografie: Marek Křížan ![](/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/53-1352972297.jpg)
-
-**Johohó, gin!** Autor fotografie: Marek Křížan
-
-![](/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/54-1352972297.jpg)
-
-**Rackové** Autor fotografie: Marek Křížan
-
-[](/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/)
-
-[](/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/)
+<div class="content-gallery">
+{{< figure src="/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/6-1352970324.jpg" alt="delfín" caption="delfín — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/7-1352970325.jpg" alt="delfín2" caption="delfín2 — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/8-1352970325.jpg" alt="opuchliny" caption="opuchliny — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/9-1352970327.jpg" alt="osel" caption="osel — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/10-1352970328.jpg" alt="Komiža" caption="Komiža — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/11-1352970489.jpg" alt="Komiža2" caption="Komiža2 — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/12-1352970489.jpg" alt="Nalodění" caption="Nalodění — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/13-1352970489.jpg" alt="Fender" caption="Fender — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/14-1352970490.jpg" alt="kapitán a navigační důstojník" caption="kapitán a navigační důstojník — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/15-1352970490.jpg" alt="Amák" caption="Amák — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/17-1352971486.jpg" alt="Ama" caption="Ama — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/18-1352971487.jpg" alt="Aquabely" caption="Aquabely — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/19-1352971487.jpg" alt="Hopinky" caption="Hopinky — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/20-1352971488.jpg" alt="Košová hlídka" caption="Košová hlídka — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/21-1352971488.jpg" alt="21" caption="Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/23-1352971492.jpg" alt="Z výšky" caption="Z výšky — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/24-1352971492.jpg" alt="Z výšky2" caption="Z výšky2 — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/25-1352971493.jpg" alt="Holky" caption="Holky — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/26-1352971765.jpg" alt="Oskar" caption="Oskar — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/28-1352971766.jpg" alt="Svinout plachty!" caption="Svinout plachty! — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/29-1352971766.jpg" alt="Holky2" caption="Holky2 — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/30-1352971767.jpg" alt="Korčula" caption="Korčula — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/31-1352971767.jpg" alt="Kolega" caption="Kolega — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/32-1352971768.jpg" alt="Krájení cibule" caption="Krájení cibule — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/33-1352971769.jpg" alt="Romantika" caption="Romantika — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/35-1352971770.jpg" alt="Oskar2" caption="Oskar2 — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/36-1352971978.jpg" alt="Veleoskar" caption="Veleoskar — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/37-1352971978.jpg" alt="Marina" caption="Marina — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/38-1352971978.jpg" alt="Hvar" caption="Hvar — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/39-1352971979.jpg" alt="Hvar - véča" caption="Hvar - véča — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/40-1352971980.jpg" alt="Jachtíme" caption="Jachtíme — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/41-1352971981.jpg" alt="Jachtíme2" caption="Jachtíme2 — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/42-1352971982.jpg" alt="Náklon" caption="Náklon — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/43-1352971982.jpg" alt="Náklon2" caption="Náklon2 — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/44-1352971983.jpg" alt="Horizont" caption="Horizont — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/45-1352971983.jpg" alt="Regata" caption="Regata — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/46-1352972292.jpg" alt="46" caption="Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/47-1352972293.jpg" alt="47" caption="Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/50-1352972295.jpg" alt="Mokro" caption="Mokro — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/51-1352972296.jpg" alt="Ústí Krky" caption="Ústí Krky — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/52-1352972296.jpg" alt="Krcký most" caption="Krcký most — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/53-1352972297.jpg" alt="Johohó, gin!" caption="Johohó, gin! — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/na-jihovychod-ilyrskym-morem/2012-07-01-tam-a-zase-zpet/54-1352972297.jpg" alt="Rackové" caption="Rackové — Autor fotografie: Marek Křížan" >}}
+</div>
 
 ### Související rubriky
 

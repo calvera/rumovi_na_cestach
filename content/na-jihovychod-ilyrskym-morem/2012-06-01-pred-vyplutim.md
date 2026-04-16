@@ -5,7 +5,7 @@ description: "Rumovi na Cestách"
 
 _„…. a tehdy naložili na mezky sudy se zelím a se soleným hovězím masem, aby za svými zády zanechali vše dosavadní, vše suchozemské a vydali se na jih za tesklivým vábením nekonečného a nedozírného moře.“_
 
-![Karavana2](/images/na-jihovychod-ilyrskym-morem/2012-06-01-pred-vyplutim/karavana2-1346669016.jpg)
+{{< figure src="/images/na-jihovychod-ilyrskym-morem/2012-06-01-pred-vyplutim/karavana2-1346669016.jpg" alt="Karavana2" >}}
 
 A tak nám začali přípravy.   
   
@@ -16,9 +16,7 @@ Ale znáte ty dobrodružné příběhy, právě ta osoba zodpovědná za životy
 Celý proces výběru maríny i lodě šel zcela mimo nás, neboť jako nejnovější členové posádky máme jednak velmi málo co k tomu říci a jednak o tom víme prdinec (což je v podstatě to samé, ale dvakrát zdůrazněno to nejlépe vystihuje skutečný stav věcí). Takže naše loď je (bože chraň) německého původu! Zjevně při výběru nebyl brán zřetel na historickou skutečnost, že německé plavidla se prostě výborně potápějí, ať už jsou k tomu určena, či nikoliv. Vzpomeňte si jen na Admiral Graf Spee u Montevidea nebo Bismark. No nezbývá než doufat, že se to za těch 50 let konečně naučili :D
 
 Tak to je ona, Bavaria 44:  
-![bavaria-44](/images/na-jihovychod-ilyrskym-morem/2012-06-01-pred-vyplutim/bavaria-44-1346078157.png)
-
-**bavaria-44** Autor fotografie: Marek Křížan  
+{{< figure src="/images/na-jihovychod-ilyrskym-morem/2012-06-01-pred-vyplutim/bavaria-44-1346078157.png" alt="bavaria-44" caption="bavaria-44 — Autor fotografie: Marek Křížan" >}}
 
 
 Co se týče domovského přístavu, volba padla na Marinu Šibenik- Zaton. Nachází se na východě šibenického zálivu, poblíž ústí řeky Krky. Je to jen coby kamenem dohodil od [Národního parku Krka](http://www.npkrka.hr/#/pocetna/?lang=eng&p=), který jsme sice už navštívili, ale pokud bude čas, uvidíme…

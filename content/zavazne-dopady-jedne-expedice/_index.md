@@ -5,7 +5,7 @@ description: "Rumovi na Cestách"
 
 Jak už to tak na tom světě chodí, občas člověk dostane zcela nečekaný impuls, nový generální životní směr, něco co mu zamíchá kartami. A většinou se to stane mimoděk, z nečekané strany, z moci nepostihnutelných vyšších sil. Archimédovi k formulaci základů hydrostatiky stačily banální úkony základní hygieny, Newtona strefilo padající jablko a Rumovic byli přizváni jako šedý dav na epochální expedici „Na jihovýchod Ilyrským mořem…“
 
-![Západ Slunce - Kakan](/images/zavazne-dopady-jedne-expedice/_index/zapad-slunce-kakan-1426754585.jpg)
+{{< figure src="/images/zavazne-dopady-jedne-expedice/_index/zapad-slunce-kakan-1426754585.jpg" alt="Západ Slunce - Kakan" >}}
 
 A byla vyřčena závažná proroctví a byly dány sliby. Bylo do mramoru vytesáno a do litiny odlito:  
   

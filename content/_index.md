@@ -10,7 +10,7 @@ Ale přesto... prozatím jsme dvoučlenná rodina, která potřebuje alespoň je
 
 Tak to jsme my..... Marek a Tereza:
 
-![Sn_mek_002a](/images/_index/sn-mek-002a-1249332516.jpg)
+{{< figure src="/images/_index/sn-mek-002a-1249332516.jpg" alt="Sn_mek_002a" >}}
 
 **Sn_mek_002a**  
 *Autor fotografie: Tereza Křížanová*
