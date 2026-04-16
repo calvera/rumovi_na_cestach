@@ -557,6 +557,27 @@ body {
   }
 }
 
+.content-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+  margin: 2rem 0;
+
+  .content-figure {
+    margin: 0;
+
+    figcaption {
+      margin-top: 0.45rem;
+      font-size: 0.82rem;
+      line-height: 1.4;
+    }
+  }
+
+  a.content-img-link {
+    display: block;
+  }
+}
+
 a.content-img-link {
   display: inline-block;
   cursor: zoom-in;

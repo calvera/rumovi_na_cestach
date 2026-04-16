@@ -99,6 +99,8 @@ Za 40 hodin plavby jsme upluli 190NM, při poměru plachty/motor 45:55. Mohlo fo
 
 [**Fotky té krásy k nahlédnutí zde**](https://photos.app.goo.gl/82qQW8tB8sCJ1XD66).
 
+<iframe src="https://www.google.com/maps/d/embed?mid=1Ox6tq5eEUXXm3LMNaXBVe2zA_guD1ok&amp;ehbc=2E312F" width="480" height="360"></iframe>
+
 ### Související rubriky
 
 - [Geneze mořeplavce - Duben 2014](/zavazne-dopady-jedne-expedice/2014-04-01-geneze-moreplavce-cachtala/)

@@ -70,53 +70,27 @@ Zítra nám teprve začne ta pravá divočina.... nashledanou Singapure, ještě
 
   * Fotografie
 
-
-
-![](/images/malajsie-2009/2009-02-02-singapore/hot-night-in-singapore-1260622478.jpg)
-
-**Hot night in Singapore** Autor fotografie: Marek Křížan ![](/images/malajsie-2009/2009-02-02-singapore/poradny-holub-1260622481.jpg)
-
-**Pořádný holub** Autor fotografie: Marek Křížan ![](/images/malajsie-2009/2009-02-02-singapore/little-india-1260622480.jpg)
-
-**Little India** Autor fotografie: Marek Křížan ![](/images/malajsie-2009/2009-02-02-singapore/sri-veeramakaliamman-1260622485.jpg)
-
-**Sri Veeramakaliamman** Autor fotografie: Marek Křížan ![](/images/malajsie-2009/2009-02-02-singapore/sri-veeramakaliamman2-1260622486.jpg)
-
-**Sri Veeramakaliamman2** Autor fotografie: Marek Křížan ![](/images/malajsie-2009/2009-02-02-singapore/svaca-1260622486.jpg)
-
-**sváča** Autor fotografie: Marek Křížan
-
-![](/images/malajsie-2009/2009-02-02-singapore/tecko-v-chinatownu-1260622487.jpg)
-
-**Téčko v Chinatownu** Autor fotografie: Marek Křížan ![](/images/malajsie-2009/2009-02-02-singapore/chinatown-1260622479.jpg)
-
-**Chinatown** Autor fotografie: Marek Křížan ![](/images/malajsie-2009/2009-02-02-singapore/prolnuti-kultur-1260622483.jpg)
-
-**prolnutí kultur** Autor fotografie: Marek Křížan ![](/images/malajsie-2009/2009-02-02-singapore/vidim-mesto-velike-1260622488.jpg)
-
-****Autor fotografie: Marek Křížan ![](/images/malajsie-2009/2009-02-02-singapore/poulicni-bohosluzba-1260622482.jpg)
-
-**Pouliční bohoslužba** Autor fotografie: Marek Křížan ![](/images/malajsie-2009/2009-02-02-singapore/vonne-tycinky-1260622489.jpg)
-
-**Vonné tyčinky** Autor fotografie: Marek Křížan
-
-![](/images/malajsie-2009/2009-02-02-singapore/zrejme-zmokneme-1260622489.jpg)
-
-**Zřejmě zmokneme** Autor fotografie: Marek Křížan ![](/images/malajsie-2009/2009-02-02-singapore/have-a-nice-day-1260622478.jpg)
-
-**Have a nice day** Autor fotografie: Marek Křížan ![](/images/malajsie-2009/2009-02-02-singapore/centrum-1260622475.jpg)
-
-**centrum** Autor fotografie: Marek Křížan ![](/images/malajsie-2009/2009-02-02-singapore/fort-canning-park-1260622477.jpg)
-
-**Fort Canning park** Autor fotografie: Marek Křížan ![](/images/malajsie-2009/2009-02-02-singapore/eskalator-do-parku-1260622476.jpg)
-
-**Eskalátor do parku** Autor fotografie: Marek Křížan ![](/images/malajsie-2009/2009-02-02-singapore/anglicky-hrbitov-1260622475.jpg)
-
-**Anglický hřbitov** Autor fotografie: Marek Křížan
-
-![](/images/malajsie-2009/2009-02-02-singapore/pevnostni-delo-1260622480.jpg)
-
-**pevnostní dělo** Autor fotografie: Marek Křížan
+<div class="content-gallery">
+{{< figure src="/images/malajsie-2009/2009-02-02-singapore/hot-night-in-singapore-1260622478.jpg" alt="Hot night in Singapore" caption="Hot night in Singapore — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/malajsie-2009/2009-02-02-singapore/poradny-holub-1260622481.jpg" alt="Pořádný holub" caption="Pořádný holub — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/malajsie-2009/2009-02-02-singapore/little-india-1260622480.jpg" alt="Little India" caption="Little India — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/malajsie-2009/2009-02-02-singapore/sri-veeramakaliamman-1260622485.jpg" alt="Sri Veeramakaliamman" caption="Sri Veeramakaliamman — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/malajsie-2009/2009-02-02-singapore/sri-veeramakaliamman2-1260622486.jpg" alt="Sri Veeramakaliamman 2" caption="Sri Veeramakaliamman 2 — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/malajsie-2009/2009-02-02-singapore/svaca-1260622486.jpg" alt="Sváča" caption="Sváča — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/malajsie-2009/2009-02-02-singapore/tecko-v-chinatownu-1260622487.jpg" alt="Téčko v Chinatownu" caption="Téčko v Chinatownu — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/malajsie-2009/2009-02-02-singapore/chinatown-1260622479.jpg" alt="Chinatown" caption="Chinatown — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/malajsie-2009/2009-02-02-singapore/prolnuti-kultur-1260622483.jpg" alt="Prolnutí kultur" caption="Prolnutí kultur — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/malajsie-2009/2009-02-02-singapore/vidim-mesto-velike-1260622488.jpg" alt="Vidím město veliké" caption="Vidím město veliké — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/malajsie-2009/2009-02-02-singapore/poulicni-bohosluzba-1260622482.jpg" alt="Pouliční bohoslužba" caption="Pouliční bohoslužba — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/malajsie-2009/2009-02-02-singapore/vonne-tycinky-1260622489.jpg" alt="Vonné tyčinky" caption="Vonné tyčinky — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/malajsie-2009/2009-02-02-singapore/zrejme-zmokneme-1260622489.jpg" alt="Zřejmě zmokneme" caption="Zřejmě zmokneme — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/malajsie-2009/2009-02-02-singapore/have-a-nice-day-1260622478.jpg" alt="Have a nice day" caption="Have a nice day — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/malajsie-2009/2009-02-02-singapore/centrum-1260622475.jpg" alt="Centrum" caption="Centrum — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/malajsie-2009/2009-02-02-singapore/fort-canning-park-1260622477.jpg" alt="Fort Canning park" caption="Fort Canning park — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/malajsie-2009/2009-02-02-singapore/eskalator-do-parku-1260622476.jpg" alt="Eskalátor do parku" caption="Eskalátor do parku — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/malajsie-2009/2009-02-02-singapore/anglicky-hrbitov-1260622475.jpg" alt="Anglický hřbitov" caption="Anglický hřbitov — Autor fotografie: Marek Křížan" >}}
+{{< figure src="/images/malajsie-2009/2009-02-02-singapore/pevnostni-delo-1260622480.jpg" alt="Pevnostní dělo" caption="Pevnostní dělo — Autor fotografie: Marek Křížan" >}}
+</div>
 
 [](/malajsie-2009/2009-02-02-singapore/)
 
