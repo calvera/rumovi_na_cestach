@@ -1,4 +1,11 @@
-<figure class="content-figure">
+{{- $wrap := lower (.Get "wrap" | default "") -}}
+{{- $figureClass := "content-figure" -}}
+{{- if eq $wrap "left" -}}
+  {{- $figureClass = printf "%s content-figure--wrap-left" $figureClass -}}
+{{- else if eq $wrap "right" -}}
+  {{- $figureClass = printf "%s content-figure--wrap-right" $figureClass -}}
+{{- end -}}
+<figure class="{{ $figureClass }}">
   {{- partial "image-with-full-link.html" (dict "src" (.Get "src") "alt" (.Get "alt" | default "") "width" (.Get "width") "height" (.Get "height")) -}}
   {{ with .Get "caption" }}<figcaption>{{ . }}</figcaption>{{ end }}
 </figure>
