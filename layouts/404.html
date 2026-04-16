@@ -1,0 +1,12 @@
+{{ define "main" }}
+<article class="prose error-page">
+  <p class="error-code">404</p>
+  <h1>Stránka nenalezena</h1>
+  <p>
+    Tahle adresa na webu není. Možná je odkaz zastaralý, nebo jste se při psaní URL jen o písmenko netrefili.
+  </p>
+  <p>
+    Pokračujte na <a href="{{ "/" | relURL }}">hlavní stránku</a>, případně použijte menu vlevo a najděte požadovaný článek.
+  </p>
+</article>
+{{ end }}
